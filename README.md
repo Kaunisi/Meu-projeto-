@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil
 
-meu nome e kayuani 
+meu nome e kauani 
 
 -estou estudando pela[alura](https:\\.alura.com.br)
 -estou me desenvolvendo na linguagem javascript
